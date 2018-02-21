@@ -1,0 +1,43 @@
+TABLA COMPETENCIA
+carga---------------> bien
+modifica---------------> bien
+elimina---------------> bien
+muestra---------------> bien 
+funcionalidad de botones---------------> falta
+validaciones --------------->falta
+
+TABLA ATLETA
+carga---------------> bien
+modifica---------------> bien
+elimina---------------> bien
+muestra---------------> bien 
+funcionalidad de botones---------------> falta
+validaciones --------------->falta
+
+TABLA JUEZ
+carga---------------> bien
+modifica---------------> bien
+elimina---------------> bien
+muestra---------------> bien 
+funcionalidad de botones---------------> falta
+validaciones --------------->falta
+
+TABLA USUARIO
+carga---------------> bien
+modifica---------------> bien
+elimina---------------> bien
+muestra---------------> bien 
+funcionalidad de botones---------------> falta
+validaciones --------------->falta
+
+TABLA ATLETA POR COMPETENCIA Y RESULTADO
+guarda resultado---------------> bien
+guarda atletas por competencia---------------> bien
+actualiza---------------> falta
+agrega atletas---------------> bien
+quita atletas ---------------> bien
+carga tiempo---------------> bien 
+calcula posicion---------------> bien(solo valores numericos)(ver combinacion de botones "agregartiempo" y "sintiempo")
+
+funcionalidad de botones---------------> falta
+validaciones --------------->falta

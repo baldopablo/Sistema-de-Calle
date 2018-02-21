@@ -1,0 +1,64 @@
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\bin\Debug\Sistema de Calle.exe
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\bin\Debug\Sistema de Calle.pdb
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\bin\Debug\Sistema de Calle.xml
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.Form1.resources
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.Resources.resources
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmAtleta.resources
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmAtletas_x_Competencia.resources
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmCompetencia.resources
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmJuez.resources
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmLogin.resources
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmUsuario.resources
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.vbproj.GenerateResource.Cache
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.exe
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.xml
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.pdb
+E:\Sistema de Calle\Version1, boton guardar\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.exe
+E:\Sistema de Calle\Version1, boton guardar\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.xml
+E:\Sistema de Calle\Version1, boton guardar\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.pdb
+E:\Sistema de Calle\Version1, boton guardar\Sistema de Calle\Sistema de Calle\bin\Debug\Sistema de Calle.exe
+E:\Sistema de Calle\Version1, boton guardar\Sistema de Calle\Sistema de Calle\bin\Debug\Sistema de Calle.pdb
+E:\Sistema de Calle\Version1, boton guardar\Sistema de Calle\Sistema de Calle\bin\Debug\Sistema de Calle.xml
+E:\Sistema de Calle\Version1, boton guardar\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.Form1.resources
+E:\Sistema de Calle\Version1, boton guardar\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.Resources.resources
+E:\Sistema de Calle\Version1, boton guardar\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmAtleta.resources
+E:\Sistema de Calle\Version1, boton guardar\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmAtletas_x_Competencia.resources
+E:\Sistema de Calle\Version1, boton guardar\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmCompetencia.resources
+E:\Sistema de Calle\Version1, boton guardar\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmJuez.resources
+E:\Sistema de Calle\Version1, boton guardar\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmLogin.resources
+E:\Sistema de Calle\Version1, boton guardar\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmUsuario.resources
+E:\Sistema de Calle\Version1, boton guardar\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.vbproj.GenerateResource.Cache
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\bin\Debug\Sistema de Calle.exe.config
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\bin\Debug\Sistema de Calle.exe.manifest
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\bin\Debug\Sistema de Calle.application
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\bin\Debug\Sistema de Calle.exe
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\bin\Debug\Sistema de Calle.pdb
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\bin\Debug\Sistema de Calle.xml
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.Form1.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.Resources.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.Bienvenida.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmAcercade.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmAtleta.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmAtletas_x_Competencia.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmBackupBase.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmCompetencia.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmImprimir.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmInicio.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmJuez.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmLogin.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmUsuario.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmDistancia1.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmDistancia2.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmDistancia3.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmSexo_Fem1.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmSexo_Mas1.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frm_Reporte_Edad_Sexo_Femenino.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frm_Reporte_Edad_Sexo_Masculino.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmReporte_por_Edad_1.resources
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.vbproj.GenerateResource.Cache
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.exe.manifest
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.application
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.exe
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.xml
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.pdb
+E:\Sistema de Calle\Version 3, boton buscar y diseño de formularios\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.vbprojResolveAssemblyReference.cache

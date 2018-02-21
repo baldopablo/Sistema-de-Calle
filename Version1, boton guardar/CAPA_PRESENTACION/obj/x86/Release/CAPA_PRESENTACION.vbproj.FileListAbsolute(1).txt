@@ -1,0 +1,2 @@
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\bin\Release\CAPA_PRESENTACION.exe.config
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Release\CAPA_PRESENTACION.vbproj.ResolveComReference.cache

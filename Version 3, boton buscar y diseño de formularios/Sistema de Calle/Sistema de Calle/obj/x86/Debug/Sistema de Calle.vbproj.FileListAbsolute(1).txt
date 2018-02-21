@@ -1,0 +1,15 @@
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\bin\Debug\Sistema de Calle.exe
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\bin\Debug\Sistema de Calle.pdb
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\bin\Debug\Sistema de Calle.xml
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.Form1.resources
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.Resources.resources
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmAtleta.resources
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmAtletas_x_Competencia.resources
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmCompetencia.resources
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmJuez.resources
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmLogin.resources
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema_de_Calle.frmUsuario.resources
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.vbproj.GenerateResource.Cache
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.exe
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.xml
+E:\Sistema de Calle\Sistema de Calle\Sistema de Calle\obj\x86\Debug\Sistema de Calle.pdb

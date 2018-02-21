@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="TESIS ATLETISMO 2016" Class="BaseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=vale\valeria;Initial Catalog=&quot;TESIS ATLETISMO 2016&quot;;Integrated Security=True" SettingsObjectName="CAPA_PRESENTACION.My.MySettings" SettingsPropertyName="TESIS_ATLETISMO_2016ConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Atleta" Member="Atleta">
+    <Type Name="Atleta">
+      <Column Name="Id_Atleta" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre_Atleta" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Apellido_Atleta" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Fecha_Nacimiento" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Dni" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Nacionalidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Id_Provincia" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_Localidad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Domicilio" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Barrio" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Teléfono_Fijo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Teléfono_Celular" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="E_mail" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Contacto_Emergencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Cobertura_Médica" Type="System.String" DbType="Char(2)" CanBeNull="true" />
+      <Column Name="Federado" Type="System.String" DbType="Char(2)" CanBeNull="true" />
+      <Column Name="Nro_Federado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Id_Club_Federación" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Otra_Institución" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Pago" Type="System.String" DbType="Char(2)" CanBeNull="true" />
+      <Column Name="Importe" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="Forma_Pago" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Id_Talle_Remera" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Dorsal" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_Estado_Atleta" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Atleta_X_Competencia" Member="Atleta_X_Competencia">
+    <Type Name="Atleta_X_Competencia">
+      <Column Name="Id_Atleta_X_Competencia" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Id_Atleta" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_Competencia" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Categoría" Member="Categoría">
+    <Type Name="Categoría">
+      <Column Name="Id_Categoría" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nombre_Categoría" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Club_Federación" Member="Club_Federación">
+    <Type Name="Club_Federación">
+      <Column Name="Id_Club_Federación" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre_Club" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Id_Provincia" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_Localidad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Dirección" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Teléfono_Fijo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Teléfono_Celular" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="E_mail" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Localidad_Club_Federación" Member="Localidad" ThisKey="Id_Localidad" OtherKey="Id_Localidad" Type="Localidad" IsForeignKey="true" />
+      <Association Name="Provincia_Club_Federación" Member="Provincia" ThisKey="Id_Provincia" OtherKey="Id_Provincia" Type="Provincia" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Competencia" Member="Competencia">
+    <Type Name="Competencia">
+      <Column Name="Id_Competencia" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre_Competencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Lugar_Competencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Fecha_Inicio" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Hora_Inicio" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Edición_Competencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Id_Provincia" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_Localidad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_Usuario" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_Estado_Competencia" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_Tipo_Disciplina" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Estado_Atleta" Member="Estado_Atleta">
+    <Type Name="Estado_Atleta">
+      <Column Name="Id_Estado_Atleta" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Estado_Atleta" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Estado_Competencia" Member="Estado_Competencia">
+    <Type Name="Estado_Competencia">
+      <Column Name="Id_Estado_Competencia" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Estado_Competencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Juez" Member="Juez">
+    <Type Name="Juez">
+      <Column Name="Id_Juez" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre_Juez" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Apellido_Juez" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Dni_Juez" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Nacionalidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Id_Provincia" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Domicilio" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Teléfono_Fijo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Teléfono_Celular" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="E_mail" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Id_Tipo_Juez" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Nro_Licencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Provincia_Juez" Member="Provincia" ThisKey="Id_Provincia" OtherKey="Id_Provincia" Type="Provincia" IsForeignKey="true" />
+      <Association Name="Tipo_Juez_Juez" Member="Tipo_Juez" ThisKey="Id_Tipo_Juez" OtherKey="Id_Tipo_Juez" Type="Tipo_Juez" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Juez_X_Prueba" Member="Juez_X_Prueba">
+    <Type Name="Juez_X_Prueba">
+      <Column Name="Id_Juez_X_Prueba" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Id_Juez" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_Prueba" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Localidad" Member="Localidad">
+    <Type Name="Localidad">
+      <Column Name="Id_Localidad" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre_Localidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Id_Provincia" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Localidad_Club_Federación" Member="Club_Federación" ThisKey="Id_Localidad" OtherKey="Id_Localidad" Type="Club_Federación" />
+      <Association Name="Provincia_Localidad" Member="Provincia" ThisKey="Id_Provincia" OtherKey="Id_Provincia" Type="Provincia" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Perfil_Usuario" Member="Perfil_Usuario">
+    <Type Name="Perfil_Usuario">
+      <Column Name="Id_Perfil_Usuario" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Perfil" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Perfil_Usuario_Usuario" Member="Usuario" ThisKey="Id_Perfil_Usuario" OtherKey="Id_Perfil_Usuario" Type="Usuario" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Provincia" Member="Provincia">
+    <Type Name="Provincia">
+      <Column Name="Id_Provincia" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nombre_Provincia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Provincia_Club_Federación" Member="Club_Federación" ThisKey="Id_Provincia" OtherKey="Id_Provincia" Type="Club_Federación" />
+      <Association Name="Provincia_Juez" Member="Juez" ThisKey="Id_Provincia" OtherKey="Id_Provincia" Type="Juez" />
+      <Association Name="Provincia_Localidad" Member="Localidad" ThisKey="Id_Provincia" OtherKey="Id_Provincia" Type="Localidad" />
+      <Association Name="Provincia_Usuario" Member="Usuario" ThisKey="Id_Provincia" OtherKey="Id_Provincia" Type="Usuario" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Prueba" Member="Prueba">
+    <Type Name="Prueba">
+      <Column Name="Id_Prueba" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nombre_Prueba" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Id_Prueba_Combinada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_Sexo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_Categoría" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Prueba_Combinada" Member="Prueba_Combinada">
+    <Type Name="Prueba_Combinada">
+      <Column Name="Id_Prueba_Combinada" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nombre_Prueba_Combinada" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Id_Sexo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_Categoría" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Prueba_Combinada_X_Prueba" Member="Prueba_Combinada_X_Prueba">
+    <Type Name="Prueba_Combinada_X_Prueba">
+      <Column Name="Id_PruebaCombinada_X_Prueba" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Id_Prueba_Combinada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_Prueba" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Resultado_Final" Member="Resultado_Final">
+    <Type Name="Resultado_Final">
+      <Column Name="Id_Resultado_Final" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Mejor_Tiempo" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Mejor_Altura" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Posición" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Clasificación" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_Prueba" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Velocidad" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Resultado_Parcial" Member="Resultado_Parcial">
+    <Type Name="Resultado_Parcial">
+      <Column Name="Id_Resultado_Parcialint" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Crono1" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Crono2" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Crono3" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Serie1" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Serie2" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Serie3" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="SerieN" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Posición" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Mejor_Tiempo" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Andarivel" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Clasificación" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Altura1" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Altura2" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Altura3" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="AlturaN" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Mejor_Altura" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Id_Prueba" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Velocidad" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Sexo" Member="Sexo">
+    <Type Name="Sexo">
+      <Column Name="Id_sexo" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Sexo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Talle_Remera" Member="Talle_Remera">
+    <Type Name="Talle_Remera">
+      <Column Name="Id_Talle_Remera" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Talle" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tipo_Juez" Member="Tipo_Juez">
+    <Type Name="Tipo_Juez">
+      <Column Name="Id_Tipo_Juez" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Tipo_Juez" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Tipo_Juez_Juez" Member="Juez" ThisKey="Id_Tipo_Juez" OtherKey="Id_Tipo_Juez" Type="Juez" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Usuario" Member="Usuario">
+    <Type Name="Usuario">
+      <Column Name="Id_Usuario" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre_Usu" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Apellido_Usu" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Id_Provincia" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Domicilio" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Barrio" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Teléfono_Fijo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Teléfono_Celular" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="E_mail" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Nombre_Usuario" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Contraseña" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Id_Perfil_Usuario" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Perfil_Usuario_Usuario" Member="Perfil_Usuario" ThisKey="Id_Perfil_Usuario" OtherKey="Id_Perfil_Usuario" Type="Perfil_Usuario" IsForeignKey="true" />
+      <Association Name="Provincia_Usuario" Member="Provincia" ThisKey="Id_Provincia" OtherKey="Id_Provincia" Type="Provincia" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

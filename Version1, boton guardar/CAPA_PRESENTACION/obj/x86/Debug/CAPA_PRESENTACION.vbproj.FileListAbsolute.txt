@@ -1,0 +1,500 @@
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Resources.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbproj.GenerateResource.Cache
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.BIENVENIDA.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.INGRESOALSISTEMA.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTA_DE_ATLETAS.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTACOMPETENCIACALLE.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTACOMPETENCIAPISTAYCAMPO.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTAJUECES.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTAUSUARIOS.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.MODIFICARUSUARIOCONTRASEÑA.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVACOMPETENCIACALLE.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVACOMPETENCIAPISTAYCAMPO.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOATLETA.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTADOCLUBFEDERACION.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOCLUBFEDERACION.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOJUEZ.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOUSUARIO.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.VENTANAPRINCIPAL.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.exe
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.xml
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.xml
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.dll
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.xml
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.xml
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.pdb
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.xml
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbprojResolveAssemblyReference.cache
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.BIENVENIDA.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ATLETASDEPISTAYCAMPO.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVACOMPETENCIA.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUMERODELATLETA.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.OPCIONESDESALTO.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLACOMPETENCIACALLE_Hoja2_.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.VentanaPrincipaldelSistema.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Form1.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ATLETAS_POR_COMPETENCIA.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADEDESEMPATE.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLACOMPETENCIACALLE.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADECARRERAS.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADECLASIFICACION.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADECRONOMETRISTASYRESULTADOS.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADELANZAMIENTOS.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADELLEGADA.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADESALTOENALTOYCONGARROCHA.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADESERIES.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLAFINAL.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLASDELANZAMIENTO.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLASALTOENLARGOYTRIPLE.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.INGRESOALSISTEMA.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTA_DE_ATLETAS.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTACOMPETENCIAS.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTAJUECES.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTAUSUARIOS.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Resources.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVACOMPETENCIAPISTAYCAMPO.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOATLETA.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTADOCLUBFEDERACION.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOCLUBFEDERACION.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOJUEZ.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOUSUARIO.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.VENTANAPRINCIPAL.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbproj.GenerateResource.Cache
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.exe
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.xml
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.xml
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.dll
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.xml
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.xml
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.pdb
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.xml
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbprojResolveAssemblyReference.cache
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.BIENVENIDA.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ATLETASDEPISTAYCAMPO.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVACOMPETENCIA.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUMERODELATLETA.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.OPCIONESDESALTO.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLACOMPETENCIACALLE_Hoja2_.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.VentanaPrincipaldelSistema.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Form1.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ATLETAS_POR_COMPETENCIA.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADEDESEMPATE.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLACOMPETENCIACALLE.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADECARRERAS.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADECLASIFICACION.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADECRONOMETRISTASYRESULTADOS.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADELANZAMIENTOS.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADELLEGADA.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADESALTOENALTOYCONGARROCHA.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADESERIES.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLAFINAL.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLASDELANZAMIENTO.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLASALTOENLARGOYTRIPLE.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.INGRESOALSISTEMA.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTA_DE_ATLETAS.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTACOMPETENCIAS.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTAJUECES.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTAUSUARIOS.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Resources.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVACOMPETENCIAPISTAYCAMPO.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOATLETA.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTADOCLUBFEDERACION.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOCLUBFEDERACION.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOJUEZ.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOUSUARIO.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.VENTANAPRINCIPAL.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbproj.GenerateResource.Cache
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.exe
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.xml
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.pdb
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.xml
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.dll
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.xml
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.xml
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.pdb
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.xml
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbprojResolveAssemblyReference.cache
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.BIENVENIDA.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ATLETASDEPISTAYCAMPO.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVACOMPETENCIA.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUMERODELATLETA.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.OPCIONESDESALTO.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLACOMPETENCIACALLE_Hoja2_.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.VentanaPrincipaldelSistema.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Form1.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ATLETAS_POR_COMPETENCIA.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADEDESEMPATE.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLACOMPETENCIACALLE.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADECARRERAS.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADECLASIFICACION.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADECRONOMETRISTASYRESULTADOS.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADELANZAMIENTOS.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADELLEGADA.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADESALTOENALTOYCONGARROCHA.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADESERIES.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLAFINAL.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLASDELANZAMIENTO.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLASALTOENLARGOYTRIPLE.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.INGRESOALSISTEMA.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTA_DE_ATLETAS.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTACOMPETENCIAS.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTAJUECES.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTAUSUARIOS.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Resources.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVACOMPETENCIAPISTAYCAMPO.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOATLETA.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTADOCLUBFEDERACION.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOCLUBFEDERACION.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOJUEZ.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOUSUARIO.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.VENTANAPRINCIPAL.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbproj.GenerateResource.Cache
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbproj.ResolveComReference.cache
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.BIENVENIDA.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ListadeAtletasporCompetencia.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVACOMPETENCIA.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.IngresodeTiemposdeCalle.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalCalle.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.IngresodeTiemposCrossCountry.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaCrossCountry.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalCrossCountry.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeFondo2Series.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeFondoCargadeAtletas.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeFondo3Series.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeFondoFinal.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeFondoSerieUnica.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaDeFondoSerieFinal.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaRondaClasificatoriaLanzamiento.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaRondaFinalLanzamiento.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalLanzamiento.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.IngresodeTiemposMaraton.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalMaraton.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaMaraton.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.IngresodeTiempodeMarcha.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeMarcha.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalMarcha.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Planilla2SeriesMedioFondo.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Planillade3SeriesdeMedioFondo.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeMedioFondo.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalMedio_Fondo.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaSerieFinalMedioFondo.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaSerieUnicaMedioFondo.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Planilla2SeriesObstaculos.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeObstáculos.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Planillade3SeriedeObstaculos.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalObstaculos.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaSerieFinalObstaculos.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaSerieUnicaObstaculos.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaDesempateSaltoAltoyGarrocha.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalSaltoLargoyTriple.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaRondaFinalSaltoLargoyTriple.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Planillade2SeriesdeVelocidad.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaDeVelocidad.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalVelocidad.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.SerieFinalVelocidad.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_rep_calle.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ReporteListaCalle.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_ReporteListaUsuarios.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ReporteUsuario.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.VentanaPrincipaldelSistema.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Form1.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ATLETAS_POR_COMPETENCIA.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeSerieUnicaVelocidad.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADELANZAMIENTOS.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Planillade3SeriesVelocidad.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaSaltoenAltoyGarrocha.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLASALTOENLARGOYTRIPLE.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.INGRESOALSISTEMA.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTA_DE_ATLETAS.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTACOMPETENCIAS.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTAJUECES.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTAUSUARIOS.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Resources.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOATLETA.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTADOCLUBFEDERACION.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOCLUBFEDERACION.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOJUEZ.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOUSUARIO.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbproj.GenerateResource.Cache
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\RdlCompile.cache
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\RdlCompile.compiled
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.xml
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.dll
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.xml
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.xml
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.pdb
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.xml
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbprojResolveAssemblyReference.cache
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.exe
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.xml
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.pdb
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaDeCalle.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.xml
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.dll
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.xml
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.xml
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.pdb
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.xml
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbprojResolveAssemblyReference.cache
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbproj.ResolveComReference.cache
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Calle.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Cross_Country.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Fondo.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Lanzamiento.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Maratón.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Marcha.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Medio_Fondo.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Obstáculos.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Salto.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Velocidad.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.BIENVENIDA.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ListadeAtletasporCompetencia.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVACOMPETENCIA.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.IngresodeTiemposdeCalle.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalCalle.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.IngresodeTiemposCrossCountry.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaCrossCountry.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalCrossCountry.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeFondo2Series.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeFondoCargadeAtletas.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeFondoFinal.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeFondoSerieUnica.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaDeFondoSerieFinal.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalLanzamiento.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.IngresodeTiemposMaraton.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalMaraton.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaMaraton.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.IngresodeTiempodeMarcha.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeMarcha.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalMarcha.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Planilla2SeriesMedioFondo.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeMedioFondo.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalMedio_Fondo.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaSerieFinalMedioFondo.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaSerieUnicaMedioFondo.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Planilla2SeriesObstaculos.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeObstáculos.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalObstaculos.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaSerieFinalObstaculos.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaSerieUnicaObstaculos.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaDesempateSaltoAltoyGarrocha.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalSaltoLargoyTriple.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Planillade2SeriesdeVelocidad.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaDeVelocidad.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalVelocidad.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.SerieFinalVelocidad.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.VentanaPrincipaldelSistema.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Form1.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaDeCalle.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeSerieUnicaVelocidad.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADELANZAMIENTOS.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaSaltoenAltoyGarrocha.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLASALTOENLARGOYTRIPLE.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ReporteListadeAtletas.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ReporteListadeClubes.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ReporteListadeJueces.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ReporteListadeUsuarios.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.INGRESOALSISTEMA.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTA_DE_ATLETAS.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTACOMPETENCIAS.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTAJUECES.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTAUSUARIOS.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Resources.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOATLETA.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTADOCLUBFEDERACION.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOCLUBFEDERACION.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOJUEZ.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOUSUARIO.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbproj.GenerateResource.Cache
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.exe
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.xml
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.pdb
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Calle.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Calle.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Cross_Contry.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Cross_Country.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Maraton.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Maraton.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Lanzamiento.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Lanzamiento.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Marcha.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Marcha.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Fondo.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Fondo.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Medio_Fondo.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Obstaculos.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Salto.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Velocidad.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaIngresodeLanzamientos.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaIngresodeSaltos.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Medio_Fondo.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Obstaculos.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Salto.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Velocidad.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Calle_x_Id.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Cross_Country_x_Id.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Lanzamiento_x_Id.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Fondo_x_Id.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Maraton_x_Id.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Marcha_x_Id.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Medio_Fondo_x_Id.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Obstaculos_x_Id.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Velocidad_x_Id.resources
+C:\Users\valeria\Desktop\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Salto_x_Id.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.xml
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.dll
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.xml
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.xml
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.pdb
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.xml
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbprojResolveAssemblyReference.cache
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbproj.ResolveComReference.cache
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Calle.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Cross_Country.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Fondo.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Lanzamiento.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Maratón.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Marcha.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Medio_Fondo.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Obstáculos.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Salto.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Informe_Final_Velocidad.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.BIENVENIDA.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVACOMPETENCIA.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.IngresodeTiemposdeCalle.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalCalle.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.IngresodeTiemposCrossCountry.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaCrossCountry.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalCrossCountry.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeFondoCargadeAtletas.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeFondoFinal.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeFondoSerieUnica.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaIngresodeLanzamientos.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalLanzamiento.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.IngresodeTiemposMaraton.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalMaraton.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaMaraton.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.IngresodeTiempodeMarcha.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeMarcha.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalMarcha.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeMedioFondo.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalMedio_Fondo.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaSerieUnicaMedioFondo.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeObstáculos.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalObstaculos.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaSerieUnicaObstaculos.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalSaltoLargoyTriple.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaIngresodeSaltos.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaDeVelocidad.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaFinalVelocidad.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.VentanaPrincipaldelSistema.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Form1.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanillaDeCalle.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PlanilladeSerieUnicaVelocidad.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLADELANZAMIENTOS.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.PLANILLASALTOENLARGOYTRIPLE.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Calle_Sexo.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Cross_Country.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Calle.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Fondo.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Lanzamiento.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Maraton.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Marcha.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Medio_Fondo.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Obstaculos.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Salto.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Final_Velocidad.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ReporteListadeAtletas.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ReporteListadeClubes.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ReporteListadeJueces.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.ReporteListadeUsuarios.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Cr_Calle.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Calle.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Cross_Contry.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Fondo.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Lanzamiento.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Maraton.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Marcha.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Medio_Fondo.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Obstaculos.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Salto.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Pre_Velocidad.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Calle_x_Id.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Cross_Country_x_Id.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Fondo_x_Id.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Lanzamiento_x_Id.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Maraton_x_Id.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Marcha_x_Id.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Medio_Fondo_x_Id.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Obstaculos_x_Id.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Salto_x_Id.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.frm_Velocidad_x_Id.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.INGRESOALSISTEMA.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTA_DE_ATLETAS.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTACOMPETENCIAS.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTAJUECES.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTAUSUARIOS.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.Resources.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOATLETA.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.LISTADOCLUBFEDERACION.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOCLUBFEDERACION.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOJUEZ.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.NUEVOUSUARIO.resources
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbproj.GenerateResource.Cache
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.exe
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.xml
+C:\Users\valeria\Desktop\Nuevas versiones\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.pdb
+E:\Sistema de Calle\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+E:\Sistema de Calle\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbproj.ResolveComReference.cache
+E:\Sistema de Calle\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.exe
+E:\Sistema de Calle\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.xml
+E:\Sistema de Calle\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.pdb
+E:\Sistema de Calle\Version1, boton guardar\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+E:\Sistema de Calle\Version1, boton guardar\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.vbproj.ResolveComReference.cache
+E:\Sistema de Calle\Version1, boton guardar\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.exe
+E:\Sistema de Calle\Version1, boton guardar\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.xml
+E:\Sistema de Calle\Version1, boton guardar\CAPA_PRESENTACION\obj\x86\Debug\CAPA_PRESENTACION.pdb
